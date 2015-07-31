@@ -141,12 +141,13 @@ alert("numberNew toExponential=" + numberNew.toExponential());
 
 //4-OBJECT STRING #############################
 //API: http://www.w3schools.com/jsref/jsref_obj_string.asp
+
 //VARIABLES
 var string = new String("OBJECT, TExT OF THE STRING, OBJECT text");
 var re = /x/;
 var re1 = /[a-e]/;
 
-
+/*
 //PRINTS HTML5
 document.writeln("string=" + string + " <br/>");
 document.writeln("string.length=" + string.length + " <br/>");
@@ -183,6 +184,7 @@ document.writeln("string.italics=" + string.italics() + " <br/>");
 document.writeln("string.small=" + string.small() + " <br/>");
 document.writeln("string.link=" + string.link("https://www.google.pt") + " <br/>");
 document.writeln("string.fontcolor=" + string.fontcolor("blue") + " <br/>");
+*/
 
 //5-ARRAY #############################
 //VARIABLE
@@ -200,6 +202,7 @@ paises[1] = "Brazil";
 alert("paises=" + paises);
 */
 
+/*
 //LOOP FOR
 for (var i = 0; i < paises.length; i++) {
     document.writeln("paises.lastIndexOf Portugal=" + paises.lastIndexOf("Portugal") + " <br/>");
@@ -251,11 +254,14 @@ document.writeln("pessoas2=" + pessoas2 + " <br/>");
 //ADD IN THE FIRST ELEMENT TO THE LIST
 document.writeln("pessoas2.unshift=" + pessoas2.unshift("AMERICO") + " <br/>");
 document.writeln("pessoas2=" + pessoas2 + " <br/>");
+*/
 
 //6-ARRAY ADVANCED####################
+//video 28
+https://www.youtube.com/watch?v=VEIR7Wb-oAk&index=28&list=PLxQNfKs8YwvEk85FbeXxDnFecAntIQdRf
+
 
 
 //TODELETE
-//video 28
 //speed: 1.5
 //ouvir tv e fazer videos
